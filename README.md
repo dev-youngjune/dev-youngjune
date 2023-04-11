@@ -1,9 +1,9 @@
 
 
-<h2>✨Hello, I'm Sungyu!✨</h2>
+<h2>✨Hello, I'm YoungJune!✨</h2>
 
 <br>
-안녕하세요! 백엔드 개발자 준비중인 최선규입니다!!<br>
+안녕하세요! 백엔드 개발자 준비중인 정용준입니다!!<br>
 "Courage is very important when it comes to anything" <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>

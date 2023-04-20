@@ -7,8 +7,8 @@
 "Courage is very important when it comes to anything" <br><br>
 <img src="https://c.tenor.com/Bklo77mJokoAAAAC/tenor.gif" width="30%">
 <h2>🎈About Me🎈</h2>
-🎓Graduated : Dongwon University<br>
-💌Email : tjfdhs364@naver.com<br>
+🎓Graduated : KEIMYUNG University<br>
+💌Email : jeff97116@naver.com<br>
 
 # 💻Tech Stack
 
